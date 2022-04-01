@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vidunhom11_2</string>
+    <string name="m_y_t_nh_i_n_t">Máy tính điện tử</string>
+    <string name="textview">TextView</string>
+    <string name="c_ng">Cộng</string>
+    <string name="nhap_so_1">Nhap so 1</string>
+    <string name="nhap_so_2">Nhap so 2</string>
+</resources>
